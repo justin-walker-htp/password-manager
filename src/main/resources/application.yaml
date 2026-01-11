@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: password-manager
+  jpa:
+    hibernate:
+      ddl-auto: validate
+    show-sql: true
